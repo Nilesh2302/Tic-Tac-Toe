@@ -39,14 +39,14 @@ $ open index.html
 tictactoe/
 │
 ├── css/
-│   └── styles.css      # Styling for the game
+│   └── styles.css      
 │
 ├── js/
-│   └── script.js       # Game logic
+│   └── script.js       
 │
-├── index.html          # Main HTML file
+├── index.html         
 │
-└── README.md           # This readme file
+└── README.md           
 ```
 
 
