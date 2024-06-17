@@ -1,43 +1,40 @@
-Here is a more visually appealing version of your `README.md` file with the use of emojis and some Markdown formatting:
+🎮 Tic Tac Toe Game
 
-```markdown
-# 🎮 Tic Tac Toe Game
+This is a simple Tic Tac Toe game built with HTML, CSS, and JavaScript.
 
-This is a simple Tic Tac Toe game built with **HTML**, **CSS**, and **JavaScript**.
-
-## 🌐 Live Demo
+🌐 Live Demo
 Check out the live demo [here](https://nilesh2302.github.io/Tic-Tac-Toe/).
 
-## 📋 Instructions
+📋 Instructions
 
-### 📥 Clone this repository
+📥 Clone this repository
 ```bash
 $ git clone https://github.com/yourusername/tictactoe.git
 ```
 
-### 📂 Navigate to the project directory
+📂 Navigate to the project directory
 ```bash
 $ cd tictactoe
 ```
 
-### 🌟 Open the game
+🌟 Open the game
 Open the `index.html` file in your preferred web browser:
 ```bash
 $ open index.html
 ```
 
-## 🛠️ Built with
-- **HTML**
-- **CSS**
-- **JavaScript**
+🛠️ Built with
+- HTML
+- CSS
+- JavaScript
 
-## ✨ Features
+✨ Features
 - 🎮 Two-player game
 - 📱 Responsive design
 - 🎉 Visual indication of the winning combination
 - 🔄 Reset button to start a new game
 
-## 📁 File Structure
+📁 File Structure
 ```
 tictactoe/
 │
@@ -51,6 +48,6 @@ tictactoe/
 │
 └── README.md           # This readme file
 ```
-```
 
-Feel free to modify the emojis and text as per your preference to make it even more attractive!
+
+
