@@ -34,20 +34,8 @@ $ open index.html
 - 🎉 Visual indication of the winning combination
 - 🔄 Reset button to start a new game
 
-📁 File Structure
-```
-tictactoe/
-│
-├── css/
-│   └── styles.css      
-│
-├── js/
-│   └── script.js       
-│
-├── index.html         
-│
-└── README.md           
-```
+         
+
 
 
 
