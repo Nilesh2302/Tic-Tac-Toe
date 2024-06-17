@@ -3,7 +3,7 @@
 This is a simple Tic Tac Toe game built with HTML, CSS, and JavaScript.
 
 🌐 Live Demo
-Check out the live demo [here](https://nilesh2302.github.io/Tic-Tac-Toe/).
+Check out the live demo [here](https://nilesh2302.github.io/Tic-Tac-Toe-Game/).
 
 📋 Instructions
 
